@@ -1,4 +1,4 @@
-# Matic contracts
+# Matic Polygon Pizza
 
 ### Install dependencies with
 
