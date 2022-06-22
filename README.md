@@ -1,9 +1,5 @@
 # Matic contracts
 
-![Build Status](https://github.com/maticnetwork/contracts/workflows/CI/badge.svg)
-
-Ethereum smart contracts that power the [Matic Network](https://matic.network).
-
 ### Install dependencies with
 
 ```
@@ -49,8 +45,6 @@ npm run bor:clean
 ```
 npm run truffle:migrate
 ```
-
-- For a properly initialized set of contracts, follow the instructions [here](./deploy-migrations/README.md).
 
 ### Run tests
 
